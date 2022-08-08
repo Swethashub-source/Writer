@@ -1,0 +1,65 @@
+body {
+    background-color: #A8DADC;
+}
+
+h1 {
+    font-size: 90px;
+}
+
+#line {
+    width: 1258px;
+    height: 30px;
+    background: #E63946;
+    border-radius: 30px;
+}
+
+.intro h3 {
+    font-size: 60px;
+    color: #1D3557;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.goals {
+    padding: 20px;
+    width: 1200px;
+    height: 350px;
+    background: #1D3557;
+    border-radius: 30px;
+    margin: auto;
+}
+
+#writing {
+    width: 1269px;
+    height: 530px;
+    background: #F1FAEE;
+    box-shadow: inset 4px 6px 10px 5px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    outline: none;
+    border: none;
+    margin-left: 86px;
+    margin-right: 86px;
+    resize: none;
+    font-size: 36px;
+
+}
+
+#counter {
+    padding: 20px;
+    width: 400px;
+    background: #1D3557;
+    border-radius: 30px;
+    margin: auto;
+    font-size: 40px;
+    color: #F1FAEE;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.goals h2 {
+    padding-top: 30px;
+    font-size: 72px;
+    color: #F1FAEE;
+}
